@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Parametrizado</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39ffd004-876e-4139-9428-6c21d7e83b52</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>230ef2a8-de91-4782-bbf5-c53b121ec219</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>323b14a8-7c74-4895-97ea-f33efe23a082</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
